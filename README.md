@@ -52,7 +52,7 @@ Open in two tabs or devices with the same chat code to test real-time messaging 
 ## 📸 Screenshot
 
 > (Add a screenshot here once you're ready!)
-![chatspace preview](./screenshot.png)
+![chatspace preview](./screenshot.PNG)
 
 ---
 
