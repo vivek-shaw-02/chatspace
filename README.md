@@ -4,9 +4,9 @@ A real-time chat application built with **Node.js**, **Express**, and **WebSocke
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-> ⚠️ _Coming Soon_ — deploy it to [Render](https://render.com) or [Railway](https://railway.app) for a public link.
+👉 [ChatSpace is live here!](https://chatspace-vd95.onrender.com)
 
 ---
 
@@ -43,3 +43,26 @@ node server.js
 
 # 4. Open in your browser
 http://localhost:3000
+```
+
+Open in two tabs or devices with the same chat code to test real-time messaging 🔁
+
+---
+
+## 📸 Screenshot
+
+> (Add a screenshot here once you're ready!)
+![chatspace preview](./screenshot.png)
+
+---
+
+
+---
+
+## 🙌 Author
+
+Made with 💻 by **[Vivek Shaw](https://github.com/vivek-shaw-02)**  
+2025
+
+---
+
